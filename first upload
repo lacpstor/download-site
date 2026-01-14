@@ -1,0 +1,30 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Download Center</title>
+</head>
+<body>
+
+<h1>My Download Center</h1>
+<p>Choose a file to download</p>
+
+<ul>
+  <li>
+    File 1
+    <a href="https://www.mediafire.com/file/XXXX/file.zip" target="_blank">
+      Download
+    </a>
+  </li>
+
+  <li>
+    File 2
+    <a href="https://www.mediafire.com/file/YYYY/file2.exe" target="_blank">
+      Download
+    </a>
+  </li>
+</ul>
+
+</body>
+</html>
